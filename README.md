@@ -1,5 +1,8 @@
 A responsive and interactive employee directory web interface built with HTML, CSS, JavaScript, and Freemarker templates.
 
+## 🌍 Live Deployment
+The application is deployed and available at:  👉 https://employee-d.netlify.app/
+
 ## Features
 
 - *Employee Management*
